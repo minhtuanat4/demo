@@ -1,0 +1,30 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+
+
+.danhsach {
+	width: 800px;
+	margin: auto;
+	margin-top: 50px;
+}
+
+.danhsach table{
+	width: 800px;
+	border: 1px solid #999999;
+}
+
+.danhsach h3{
+	background: #009688;
+	color: #FFF;
+	text-align: center;
+	padding: 5px;
+}
+
+.timkiem {
+	width: 800px;
+	margin: auto;
+	margin-top: 50px;
+}
